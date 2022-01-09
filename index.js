@@ -26,6 +26,6 @@ io.on("connection", (socket) => {
   });
 });
 
-server.listen(4001, () => {
+server.listen(5000, () => {
   console.log("SERVER IS RUNING");
 });
